@@ -1,2 +1,2 @@
-# Module5-Challenge
+# Data-Visualization-Challenge
 UCF Bootcamp Challenge
